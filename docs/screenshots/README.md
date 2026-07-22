@@ -1,10 +1,13 @@
-# Screenshots
+# 📸 Screenshots
 
-This folder contains screenshots of the PyBe application, including:
+This folder contains screenshots of the PyBe application.
+
+Screenshots will be organized as development progresses.
+
+Examples:
 
 - Home Page
 - Dashboard
 - Learning Session
-- Roadmap
-- Progress Analytics
-- Other UI components
+- Scenario Browser
+- Progress Dashboard
